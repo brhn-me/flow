@@ -1,5 +1,5 @@
 # docker-compose with mysql and phpmyadmin
-A sample docker compose for running both mysql and phpmyadmin atonce
+A sample docker compose for running both mysql and phpmyadmin at once
 ```version: '2'
 services:
   db-mysql:
